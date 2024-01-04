@@ -1,0 +1,6 @@
+.chart-pie {
+    /*change background color to transparent*/
+    -fx-border-color: derive(-fx-pie-color, 0%);
+    /*change border width to 1px*/
+    -fx-border-width: 0px;
+}
